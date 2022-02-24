@@ -40,17 +40,19 @@
     "url": "https://sample-laravel-zyovk.ondigitalocean.app",
     "icon": "https://favicons.githubusercontent.com/sample-laravel-zyovk.ondigitalocean.app",
     "slug": "sample-application",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.72%",
+    "uptimeDay": "99.72%",
+    "uptimeWeek": "99.72%",
+    "uptimeMonth": "99.72%",
+    "uptimeYear": "99.72%",
     "time": 385,
     "timeDay": 385,
     "timeWeek": 385,
     "timeMonth": 385,
     "timeYear": 385,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-02-24": 0
+    }
   }
 ]
