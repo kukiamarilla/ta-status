@@ -1,5 +1,5 @@
 # Change these first
-owner: kukamarilla # Your GitHub organization or username, where this repository lives
+owner: kukiamarilla # Your GitHub organization or username, where this repository lives
 repo: ta-status # The name of this repository
 
 sites:
@@ -7,8 +7,6 @@ sites:
     url: https://www.tarjetaazul.com.py
   - name: Tarjeta Azul Dev
     url: https://dev.tarjetaazul.com.py
-  - name: Sample Application
-    url: https://sample-laravel-zyovk.ondigitalocean.app
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
