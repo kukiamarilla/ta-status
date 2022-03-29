@@ -5,19 +5,17 @@
     "icon": "https://favicons.githubusercontent.com/www.tarjetaazul.com.py",
     "slug": "tarjeta-azul",
     "status": "up",
-    "uptime": "99.98%",
-    "uptimeDay": "99.21%",
-    "uptimeWeek": "99.89%",
-    "uptimeMonth": "99.97%",
-    "uptimeYear": "99.98%",
-    "time": 352,
-    "timeDay": 407,
-    "timeWeek": 414,
-    "timeMonth": 362,
-    "timeYear": 352,
-    "dailyMinutesDown": {
-      "2022-03-28": 11
-    }
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 353,
+    "timeDay": 403,
+    "timeWeek": 400,
+    "timeMonth": 363,
+    "timeYear": 353,
+    "dailyMinutesDown": {}
   },
   {
     "name": "Tarjeta Azul Dev",
@@ -31,8 +29,8 @@
     "uptimeMonth": "99.59%",
     "uptimeYear": "99.61%",
     "time": 273,
-    "timeDay": 516,
-    "timeWeek": 298,
+    "timeDay": 265,
+    "timeWeek": 305,
     "timeMonth": 273,
     "timeYear": 273,
     "dailyMinutesDown": {
