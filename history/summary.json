@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 354,
-    "timeDay": 213,
-    "timeWeek": 262,
-    "timeMonth": 355,
-    "timeYear": 348,
+    "time": 353,
+    "timeDay": 177,
+    "timeWeek": 258,
+    "timeMonth": 346,
+    "timeYear": 347,
     "dailyMinutesDown": {}
   },
   {
@@ -23,16 +23,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/dev.tarjetaazul.com.py.ico",
     "slug": "tarjeta-azul-dev",
     "status": "up",
-    "uptime": "99.96%",
+    "uptime": "99.97%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 292,
-    "timeDay": 223,
-    "timeWeek": 271,
-    "timeMonth": 293,
-    "timeYear": 279,
+    "timeDay": 197,
+    "timeWeek": 279,
+    "timeMonth": 277,
+    "timeYear": 278,
     "dailyMinutesDown": {}
   }
 ]
