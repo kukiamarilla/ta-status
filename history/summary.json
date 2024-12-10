@@ -22,19 +22,19 @@
     "url": "https://dev.tarjetaazul.com.py",
     "icon": "https://icons.duckduckgo.com/ip3/dev.tarjetaazul.com.py.ico",
     "slug": "tarjeta-azul-dev",
-    "status": "down",
+    "status": "up",
     "uptime": "99.97%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.53%",
+    "uptimeWeek": "99.93%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
     "time": 283,
-    "timeDay": 258,
-    "timeWeek": 269,
-    "timeMonth": 282,
-    "timeYear": 278,
+    "timeDay": 393,
+    "timeWeek": 301,
+    "timeMonth": 290,
+    "timeYear": 279,
     "dailyMinutesDown": {
-      "2024-12-10": 0
+      "2024-12-10": 7
     }
   }
 ]
