@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 340,
-    "timeDay": 184,
-    "timeWeek": 292,
-    "timeMonth": 339,
+    "timeDay": 0,
+    "timeWeek": 317,
+    "timeMonth": 343,
     "timeYear": 340,
     "dailyMinutesDown": {}
   },
@@ -24,17 +24,15 @@
     "slug": "tarjeta-azul-dev",
     "status": "up",
     "uptime": "99.97%",
-    "uptimeDay": "99.53%",
-    "uptimeWeek": "99.93%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 283,
-    "timeDay": 393,
-    "timeWeek": 301,
-    "timeMonth": 290,
+    "timeDay": 527,
+    "timeWeek": 276,
+    "timeMonth": 286,
     "timeYear": 279,
-    "dailyMinutesDown": {
-      "2024-12-10": 7
-    }
+    "dailyMinutesDown": {}
   }
 ]
