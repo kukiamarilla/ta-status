@@ -4,10 +4,10 @@
     "url": "https://www.tarjetaazul.com.py",
     "icon": "https://icons.duckduckgo.com/ip3/www.tarjetaazul.com.py.ico",
     "slug": "tarjeta-azul",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.89%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 343,
@@ -15,16 +15,18 @@
     "timeWeek": 469,
     "timeMonth": 363,
     "timeYear": 345,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-01-21": 2
+    }
   },
   {
     "name": "Tarjeta Azul Dev",
     "url": "https://dev.tarjetaazul.com.py",
     "icon": "https://icons.duckduckgo.com/ip3/dev.tarjetaazul.com.py.ico",
     "slug": "tarjeta-azul-dev",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -33,6 +35,8 @@
     "timeWeek": 357,
     "timeMonth": 333,
     "timeYear": 286,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-01-21": 0
+    }
   }
 ]
