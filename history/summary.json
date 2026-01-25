@@ -9,20 +9,19 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "98.18%",
-    "time": 432,
-    "timeDay": 548,
-    "timeWeek": 421,
+    "uptimeYear": "98.46%",
+    "time": 430,
+    "timeDay": 308,
+    "timeWeek": 429,
     "timeMonth": 380,
-    "timeYear": 457,
+    "timeYear": 456,
     "dailyMinutesDown": {
       "2025-11-18": 105,
       "2025-01-30": 807,
       "2025-01-29": 1440,
       "2025-01-28": 1440,
       "2025-01-27": 1440,
-      "2025-01-26": 1440,
-      "2025-01-25": 1440
+      "2025-01-26": 1440
     }
   },
   {
@@ -31,15 +30,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/dev.tarjetaazul.com.py.ico",
     "slug": "tarjeta-azul-dev",
     "status": "up",
-    "uptime": "99.33%",
+    "uptime": "99.34%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "98.18%",
-    "time": 320,
-    "timeDay": 201,
-    "timeWeek": 343,
-    "timeMonth": 312,
+    "uptimeYear": "98.45%",
+    "time": 321,
+    "timeDay": 423,
+    "timeWeek": 363,
+    "timeMonth": 317,
     "timeYear": 328,
     "dailyMinutesDown": {
       "2025-12-20": 16,
@@ -50,8 +49,7 @@
       "2025-01-29": 1440,
       "2025-01-28": 1440,
       "2025-01-27": 1440,
-      "2025-01-26": 1440,
-      "2025-01-25": 1440
+      "2025-01-26": 1440
     }
   }
 ]
