@@ -4,7 +4,7 @@
     "url": "https://www.tarjetaazul.com.py",
     "icon": "https://icons.duckduckgo.com/ip3/www.tarjetaazul.com.py.ico",
     "slug": "tarjeta-azul",
-    "status": "up",
+    "status": "down",
     "uptime": "99.38%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -16,6 +16,7 @@
     "timeMonth": 360,
     "timeYear": 511,
     "dailyMinutesDown": {
+      "2026-04-08": 0,
       "2025-11-18": 105
     }
   },
